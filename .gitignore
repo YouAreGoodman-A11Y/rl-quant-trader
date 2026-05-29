@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.zip
+*.parquet
+*.csv
+*.xlsx
+logs/
+.DS_Store
+.ipynb_checkpoints/
+*.model
+*.h5
+*.pt
+*.pth
